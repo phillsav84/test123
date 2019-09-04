@@ -1,0 +1,104 @@
+h1, h2, h3, h4, h5{
+font-family: 'serif' !important;
+}
+
+div, p{
+font-family: 'serif' !important;
+}
+
+.widget_text img {
+    width: auto !important;
+    height: auto !important;
+}
+
+.footer-area-cont {
+    padding: 0px 0 10px 0 !important;
+}
+
+.footer-widget {
+    padding-bottom: 0px;
+}
+
+.scroll-top{
+    background-color: #23282d !important;
+}
+
+.btn-border {
+    border: 2px solid #18191B;
+    color: #18191B !important;
+    background-color: transparent;
+}
+
+.btn-border :hover {
+    border: 2px solid #18191B !important;
+    color: #18191B  !important;
+    background-color: #18191B !important;
+}
+
+.footer {
+margin-top: 0px;
+  
+}
+
+
+.wpcf7-submit{
+order-color: #18191B!important;
+    background: #fff!important;
+    color: #18191B!important;
+ border: 1 !important;
+border-color: #18191B!important;
+}
+
+.wpcf7-submit :hover{
+order-color: #18191B!important;
+    background: #000!important;
+    color: #fff!important;
+ border: 1 !important;
+border-color: #18191B!important;
+}
+
+.btn-dark {
+    border: 1px solid #18191B!important;
+    background-color: #ffffff!important;
+    color: #000 !important;
+}
+
+
+.menu-transparent .navbar {
+    background: #ffffff !important;
+    border-bottom: #ffffff !important;
+}
+
+.menu-transparent .navbar .nav>li>a {
+    color: #23282d !important;
+}
+
+.btn-dark {
+    border: 1px solid #18191B!important;
+    background-color: #ffffff!important;
+    color: #000 !important;
+}
+
+.dark-form input, .dark-form textarea {
+    color: #000;
+    background-color: #ffffff!important;
+    border: 1!important;
+}
+
+
+.input-group-lg>.form-control, .input-group-lg>.input-group-addon {
+    border-radius: 0px;
+    border-color: #ddd;
+  border: 1!important;
+}
+
+.wpcf7-submit :hover{
+background: #000!important;
+    color: #ffffff!important;
+}
+
+.btn:hover {
+    opacity: 0.65;
+    background-color: #000000!important;
+    color: #ffffff !important;
+}
